@@ -2,7 +2,27 @@
 
 My name is Maxime, i'm fullstack developer (Java/Angular) in freelance.
 
-My summary:
+### My skills
+
+<table>
+  <tr>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td> <img src="https://skillicons.dev/icons?i=java,spring,git,html,css,regex,ts"/> </td>
+  </tr>
+  <tr>
+    <td>⭐⭐⭐⭐</td>
+    <td><img src="https://skillicons.dev/icons?i=docker,gitlab,idea,linux,materialui,maven,postgres,postman" /></td>
+  </tr>
+    <tr>
+    <td>⭐⭐⭐</td>
+    <td><img src="https://skillicons.dev/icons?i=elasticsearch,gcp,py,raspberrypi,terraform" /></td>
+  </tr>
+</table>
+
+
+
+### Summary
+
 - 🔭 I’m currently working for Oney Bank
 - 💻 I'm working with Java, Spring, and Angular
 - 🌱 I’m currently learning architecture of micro-frontend
